@@ -6,8 +6,7 @@ Currently, this is the only preserved and publicly available mod for Zootopia: C
 
 - Place the OBB file in the correct directory.
 
-
-Replace the data folder. (Note: On newer Android models, you will need to perform the file transfer using a PC).
+- Replace the data folder. (Note: On newer Android models, you will need to perform the file transfer using a PC).
 
 Compatibility: with the Samsung Galaxy S23 and older devices.  (Snapdragon 8 Gen 3 and newer, not supported)
 
