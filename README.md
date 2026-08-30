@@ -1,5 +1,9 @@
 Currently, this is the only preserved and publicly available mod for Zootopia: Crime Files where all cases are fully functional. (While I haven't had the chance to test every single case end-to-end, the game files indicate that they all work.)
 
+---
+For legal reasons, the OBB file is hosted on Internet Archive
+---
+
 Installation Instructions:
 
 - Download and install the official APK file.
